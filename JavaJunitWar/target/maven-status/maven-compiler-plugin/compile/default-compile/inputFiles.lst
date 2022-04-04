@@ -1,0 +1,11 @@
+/home/leti/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/ItemService.java
+/home/leti/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/tools/StaticService.java
+/home/leti/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/repository/ItemRepository.java
+/home/leti/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/model/Customer.java
+/home/leti/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/model/Item.java
+/home/leti/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/SampleApplication.java
+/home/leti/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/external/AddressService.java
+/home/leti/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/external/HostService.java
+/home/leti/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/CustomerService.java
+/home/leti/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/external/ExternalSystemProxy.java
+/home/leti/cloned/JavaJunitWar/src/main/java/com/codecentric/sample/store/service/RateService.java
