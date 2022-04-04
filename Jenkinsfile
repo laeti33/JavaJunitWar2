@@ -22,6 +22,8 @@ pipeline {
     stage('deploy') {
       steps {
         sh 'echo \'deploy\''
+        sh '''cp target/*war/ /var/lib/tomcat9/webapps/
+'''
       }
     }
 
